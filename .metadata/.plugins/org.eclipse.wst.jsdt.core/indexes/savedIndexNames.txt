@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+/home/stefanoneto/cursos-alura/introducao-javascript/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1886425146.index
+409711540.index
+1094628513.index
+3775674106.index
+2831483610.index
+1925661428.index
